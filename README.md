@@ -1,4 +1,1 @@
-# hello-world
-echo "hej hej hemskt mycket hej"
-read ans
-echo "$ans, to you toooooo!"
+Just trying to learn how to use Github by playing with a silly ksh file
